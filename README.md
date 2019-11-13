@@ -1,4 +1,5 @@
 [![GitHub release](https://img.shields.io/github/release/ilm-labs/ilm-cr.svg)](https://github.com/ilm-labs/ilm-cr/releases)
+[![Build Status](https://travis-ci.org/ilm-labs/ilm-cr.svg?branch=master)](https://travis-ci.org/ilm-labs/ilm-cr)
 
 # ilm
 
