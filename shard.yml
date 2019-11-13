@@ -1,0 +1,9 @@
+name: ilm
+version: 0.1.0
+
+authors:
+  - Syed Fazil Basheer <fazil.basheer@kuvera.in>
+
+crystal: 0.32.0-dev
+
+license: MIT
