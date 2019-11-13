@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/ilm-labs/ilm-cr.svg)](https://github.com/ilm-labs/ilm-cr/releases)
+
 # ilm
 
 TODO: Write a description here
